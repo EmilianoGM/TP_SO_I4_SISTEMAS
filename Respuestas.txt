@@ -1,0 +1,4 @@
+1- Se pueden mantener los dos datos resolviendo el conflicto al hacer el merge de las ramas de alfa y beta, editanto el 
+archivo de texto con los datos.
+2- Se puede, el merge de la rama master con la rama alfa o beta no produce conflictos porque el archivo de texto no
+contiene datos.
